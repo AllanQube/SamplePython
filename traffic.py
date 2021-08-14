@@ -6,7 +6,6 @@ def trafficLights():
         print("Wait")
     elif(light=="green"):
         print("Go")
-        
     else:
         print("Plese Enter Red, Yellow or Green traffic light")
     
